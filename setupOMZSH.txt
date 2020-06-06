@@ -1,0 +1,14 @@
+1. run the install script
+2. sudo apt install powerline fonts-powerline
+3. sudo apt-get install zsh-syntax-highlighting
+sudo apt-get install fonts-powerline
+
+
+
+: 1561591166:0;sudo apt install powerline fonts-powerline
+: 1561591282:0;sudo apt install zsh-theme-powerlevel9k
+: 1561591328:0;sudo apt-get install zsh-syntax-highlighting
+: 1561591839:0;git clone https://github.com/zsh-users/zsh-autosuggestions.git
+: 1561591933:0;sudo apt install zsh-syntax-highlighting
+: 1561592040:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+: 1561592177:0;sudo apt install fonts-powerline

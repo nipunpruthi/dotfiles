@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+BASEDIR=$(dirname $0)
+cd $BASEDIR
+
+ln -s ${PWD}/bashrc ~/.bashrc 2>/dev/null || true
+ln -s ${PWD}/vimrc ~/.vimrc 2>/dev/null || true
+ln -s ${PWD}/zshrc ~/.zshrc 2>/dev/null || true
+ln -s ${PWD}/tmux.conf ~/.tmux.conf 2>/dev/null || true
+ln -s ${PWD}/gitconfig ~/.gitconfig 2>/dev/null || true
+#ln -s ${PWD}/bashrc ~/.bashrc
