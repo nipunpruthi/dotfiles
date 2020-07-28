@@ -103,6 +103,9 @@ alias u='sudo apt update && sudo apt -y upgrade && sudo snap refresh'
 alias up=' u'
 alias mk='mkdirCD'
 
+alias workflowy='/home/nipun/.WorkFlowy/WorkFlowy-x86_64.AppImage'
+alias wf='workflowy&'
+
 
 
 function mkdirCD() {
