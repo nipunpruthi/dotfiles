@@ -97,6 +97,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
 alias ush=' unset HISTFILE'
 alias .work='cd /media/nipun/789CB1599CB1131C/.work'
 alias u='sudo apt update && sudo apt -y upgrade && sudo snap refresh'
